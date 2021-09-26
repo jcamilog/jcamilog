@@ -8,7 +8,7 @@ I'm a software development engineer who is passionate about technology, professi
 
 ### 🌎   Find me around the web:
 
-And know a little more about my work in Linkedin
+And know a little more about my work in [Linkedin](https://www.linkedin.com/in/juan-camilo-guerrero-gonz%C3%A1lez-8a885517b/)
 
 <!--
 **jcamilog/jcamilog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
